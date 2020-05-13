@@ -1,3 +1,32 @@
 h1 {
 	text-align: center;
 }
+div {
+	background-color: gray;
+	border: 1px solid black;
+}
+
+
+#chicken {
+	background-color: #7FFFD4;
+	border: 1px solid black;
+	margin-top: 0;
+	width: 200px;
+	text-align: center;
+
+
+}
+#beef {
+	background-color: #FF7F50;
+	border: 1px solid black;
+	margin-top: 0;
+	text-align: center;
+	width: 200px;
+}
+#sushi{
+	background-color: #8B008B;
+	border: 1px solid black;
+	margin-top: 0;
+	width: 200px;
+	text-align: center;
+}
